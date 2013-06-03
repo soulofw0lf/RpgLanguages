@@ -1,0 +1,7 @@
+name: RPGLanguages
+main: com.vartala.soulofw0lf.rpglanguages.RPGLanguages
+version: 1.0
+commands:
+    language:
+        description: set your current language
+        usage: /<language> [set,clear]
